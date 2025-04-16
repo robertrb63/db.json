@@ -1,69 +1,117 @@
-"jojos":{
+"parroquia":{
 [
-  {
-    "id": 1,
-    "Peronaje": "Jotaro Kujo",
-    "edad": 17,
-    "stand": "Star Platinum",
-    "img": "https://static.wikia.nocookie.net/jjba/images/0/01/JotaroProfile.png",
-    "saga": "3, 4, 5, 6"
-  },
-  {
-    "id": 2,
-    "Peronaje": "Giorno Giovanna",
-    "edad": 15,
-    "stand": "Gold Experience",
-    "img": "https://static.wikia.nocookie.net/jjba/images/c/c3/Screen_Shot_2020-01-10_at_9.23.23_am.png",
-    "saga": "5"
-  },
-  {
-    "id": 3,
-    "Peronaje": "Jolyne Cujoh",
-    "edad": 19,
-    "stand": "Stone Free",
-    "img": "https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg",
-    "saga": "6"
-  },
-  {
-    "id": 4,
-    "Peronaje": "Jonathan Joestar",
-    "edad": 20,
-    "stand": "Hamon",
-    "img": "https://static.wikia.nocookie.net/jjba/images/f/fd/Jonathan_Joestar_Menacing.png",
-    "saga": 1
-  },
-  {
-    "id": 5,
-    "Peronaje": "Josuke Higashikata",
-    "edad": 16,
-    "stand": "Crazy Diamond",
-    "img": "https://static.wikia.nocookie.net/jjba/images/2/28/JOsuke4_infobox_manga.jpg",
-    "saga": "4"
-  },
-  {
-    "id": 6,
-    "Peronaje": "Johnny Joestar",
-    "edad": 19,
-    "stand": "Slow Dancer",
-    "img": "https://static.wikia.nocookie.net/jjba/images/9/96/Johny_Joestar_profile.jpg",
-    "saga": "7, 8"
-  },
-  {
-    "id": 7,
-    "Peronaje": "Joseph Joestar",
-    "edad": 18,
-    "stand": "Hermit Purple",
-    "img": "https://static.wikia.nocookie.net/jjba/images/2/2b/220px-JosephJoestar.jpg",
-    "saga": "2, 3, 4"
-  },
-  {
-    "id": 8,
-    "Peronaje": "Josuke Higashikata (Other)",
-    "edad": 19,
-    "stand": "Soft & Wet",
-    "img": "https://static.wikia.nocookie.net/jjba/images/3/34/Jojolion_.png",
-    "saga": "8"
-  }
+{
+        "id": 1,
+        "nombre": "Jose María Huerva",
+        "telefono": "974427274",
+        "email": "a@gmail.com",
+        "parroquia": "Fraga",
+        "grupoParroquial": "Aren",
+        "UnidadPastoral": "Graus",
+        "moderador": "974427274",
+        "telModerador": "974427274",
+        "arciprestazgo": "Archipretazgo del Bajo Cinca",
+        "arcipreste": "Jose María Huerva",
+        "telArciprestazgo": "974427274",
+        "animador": "Monserrate",
+        "telAnimador": "678587190"
+    },
+    {
+        "id": 2,
+        "nombre": "Jaime",
+        "telefono": "",
+        "email": "o@gmail.com",
+        "parroquia": "Barbastro",
+        "grupoParroquial": "Barbastro",
+        "UnidadPastoral": "Barbastro",
+        "moderador": "Jaime",
+        "telModerador": "",
+        "arciprestazgo": "Somontano",
+        "arcipreste": "Omar",
+        "telArciprestazgo": "",
+        "animador": "Laico Encargado",
+        "telAnimador": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Oscar",
+        "telefono": "",
+        "email": "o@gmail.com",
+        "parroquia": "Monzón",
+        "grupoParroquial": "Monzón",
+        "UnidadPastoral": "Monzón",
+        "moderador": "Oscar",
+        "telModerador": "",
+        "arciprestazgo": "Medio Cinca y Literá",
+        "arcipreste": "Oscar",
+        "telArciprestazgo": "",
+        "animador": "",
+        "telAnimador": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Roberto Antonio Restrepo Builes",
+        "telefono": "624083835",
+        "email": "restrepo.roberto@gmail.com",
+        "parroquia": "Santonrens",
+        "grupoParroquial": "Aren",
+        "UnidadPastoral": "Graus",
+        "moderador": "Juan Ignacio Cardona Orozco",
+        "telModerador": "616389807",
+        "arciprestazgo": "Sobrarbe y Ribargoza",
+        "telArciprestazgo": "613240435",
+        "arcipreste": "Jhon Mario Moná",
+        "animador": "Monserrate",
+        "telAnimador": "678587190"
+    },
+    {
+        "id": 5,
+        "nombre": "Roberto Antonio Restrepo Builes",
+        "telefono": "624083835",
+        "email": "restrepo.roberto@gmail.com",
+        "parroquia": "Viacamp",
+        "grupoParroquial": "Arén",
+        "UnidadPastoral": "Graus",
+        "moderador": "Juan Ignacio Cardona Orozco",
+        "telModerador": "616389807",
+        "arciprestazgo": "Sobrarbe y Ribagorza",
+        "telArciprestazgo": "613240435",
+        "arcipreste": "Jhon Mario Moná",
+        "animador": "Monserrate",
+        "telAnimador": "678587190"
+    },
+    {
+        "id": 6,
+        "nombre": "Roberto Antonio Restrepo Builes",
+        "telefono": "624083835",
+        "email": "restrepo.roberto@gmail.com",
+        "parroquia": "Sopeira",
+        "grupoParroquial": "Aren",
+        "UnidadPastoral": "Graus",
+        "moderador": "Juan Ignacio Cardona Orozco",
+        "telModerador": "616389807",
+        "arciprestazgo": "Sobrarbe y Ribargoza",
+        "arcipreste": "Jhon Mario Moná",
+        "telArciprestazgo": "613240435",
+        "animador": "Monserrate",
+        "telAnimador": "678587190"
+    },
+    {
+        "id": 7,
+       "nombre": "Roberto Antonio Restrepo Builes",
+        "telefono": "624083835",
+        "email": "restrepo.roberto@gmail.com",
+        "parroquia": "Puente de Montanana",
+        "grupoParroquial": "Aren",
+        "UnidadPastoral": "Graus",
+        "moderador": "Juan Ignacio Cardona Orozco",
+        "telModerador": "616389807",
+        "arciprestazgo": "Sobrarbe y Ribargoza",
+        "arcipreste": "Jhon Mario Moná",
+        "telArciprestazgo": "613240435",
+        "animador": "Monserrate",
+        "telAnimador": "678587190"
+    }
 ],
 "profile": "robert63"
 }
